@@ -1,6 +1,6 @@
 ![](https://i.ibb.co/Jn64KYH/fae23075-8ea1-42a6-8761-c59614a1899a.png)
-### Hi Everyone 👋,
-### I'm Janardhan Majumder(subroto)
+## Hi Everyone 👋,
+## I'm Janardhan Majumder(subroto)
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
