@@ -1,13 +1,17 @@
 ![](https://i.ibb.co/Jn64KYH/fae23075-8ea1-42a6-8761-c59614a1899a.png)
-# Hi Everyone 👋,
-# I'm Janardhan Majumder(subroto)
+# Hi  I'm Janardhan Majumder(subroto) 👋
 
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I am Janardhan Majumder. I am student of "Programing hero Complete Web Development Course with Jankar Mahbub" Batch 6. I have broad experience in web design and development. Researched various libraries and packages including React.js and Express.js developer. I built more then 25 projects using different technologies and gained valuable teamwork and communication skills in last six months. I need a position to work as full-time web developer. Where I can apply my knowledge and improve my skills.
+
+WhatsApp: +8801631901754
+My Email: janardhanmajumder03@gmail.com
 
 💼Skills: ReactJs/Firebase/NodeJs/ExpressJs/MongoDb/HTML5/CSS3/ES6/TailwindCss/Bootstrap/Redux/sslcommerz/StrpeJs/Microsoft-Office-Applications etc.
 
 - 🔭 I’m currently working on this page. 
+
+
 
 
 - 🔭 I’m currently working on ...
