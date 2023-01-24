@@ -1,14 +1,14 @@
 ![](https://i.ibb.co/Jn64KYH/fae23075-8ea1-42a6-8761-c59614a1899a.png)
+### Hi Everyone 👋,
+### I'm Janardhan Majumder(subroto)
+
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+💼Skills: ReactJs/Firebase/NodeJs/ExpressJs/MongoDb/HTML5/CSS3/ES6/TailwindCss/Bootstrap/Redux/sslcommerz/StrpeJs/Microsoft-Office-Applications etc.
 
 - 🔭 I’m currently working on this page. 
 
-**subrotomojumder/subrotomojumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
