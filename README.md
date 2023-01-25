@@ -2,8 +2,12 @@
 # Hi 👋 I'm Janardhan Majumder(subroto)
 
 #### 💼 I'm Web Developer
-#### Love to lern new technology
-#### Love to share my knowledge
+- 🤔 Love to lern new technology
+- 💬 Love to share my knowledge
+- 🔭 I’m currently working on Mobile Resell Shop project
+- 🌱 I’m currently learning React Redux
+- 👯 I’m looking to collaborate on IT organization
+
 
 I am Janardhan Majumder. I am student of "Programing hero Complete Web Development Course with Jankar Mahbub" Batch 6. I have broad experience in web design and development. Researched various libraries and packages including React.js and Express.js developer. I built more then 25 projects using different technologies and gained valuable teamwork and communication skills in last six months. I need a position to work as full-time web developer. Where I can apply my knowledge and improve my skills.
 
@@ -11,12 +15,6 @@ WhatsApp: +8801631901754 ||
 My Email: janardhanmajumder03@gmail.com
 
 💼 Skills: ReactJs/Firebase/NodeJs/ExpressJs/MongoDb/HTML5/CSS3/ES6/TailwindCss/Bootstrap/Redux/sslcommerz/StrpeJs/Microsoft-Office-Applications
-
-- 🔭 I’m currently working on Mobile Resel Shope 
-- 🌱 I’m currently learning React-Redux 
-- 👯 I’m looking to collaborate on the IT organization 
-- 🤔 I’m looking for help with Job opportunities 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/subrotomojumder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://portfolio-janardhan.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/janardhan-majumder//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/subrotomojumder.14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mobile-resell-shope.web.app/)  
 
@@ -38,15 +36,4 @@ My Email: janardhanmajumder03@gmail.com
 
 ![Profile views](https://gpvc.arturio.dev/subrotomojumder)  
 
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
