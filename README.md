@@ -1,5 +1,5 @@
 ![](https://i.ibb.co/Jn64KYH/fae23075-8ea1-42a6-8761-c59614a1899a.png)
-# Hi there 👋, Hi I 'm Janardhan Majumder(subroto)
+# Hi 👋 I'm Janardhan Majumder(subroto)
 
 ## 📒 Web Developer
 
